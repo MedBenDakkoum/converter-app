@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 ## Unit Currency Converter
 
 **Unit Currency Converter** is a React application for converting currencies and units of measurement.
@@ -14,13 +16,14 @@ You can convert over 30 currencies, make historical conversions, and view conver
 
 ## Installation
 
-1. Install Node.js *(in case you haven't installed it)*.
+1. Install Node.js _(in case you haven't installed it)_.
 2. [Download the source code](https://github.com/IhorAntiukhov/unit-currency-converter.git) and open a command prompt in the project's root folder.
 3. Install the dependencies needed for the application.
 
 ```
 npm install
 ```
+
 4. Start React project and development server.
 
 ```
